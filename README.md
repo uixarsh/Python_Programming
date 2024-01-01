@@ -122,6 +122,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/uixarsh/Pyth
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
